@@ -10,7 +10,7 @@ You can find my profile on the following channels:
 [![Linkedin Badge](https://img.shields.io/badge/-Natanael%20Domingos-0a66c2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natanaeldsantos/)](https://www.linkedin.com/in/natanaeldsantos/)
 [![Gmail Badge](https://img.shields.io/badge/-natanael.developer@gmail.com-ea4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:natanael.developer@gmail.com)](mailto:natanael.developer@gmail.com)
 
-- 👨‍💻 I'm currently work as a Data Engineer at a Brazilian company [BRQ Digital Solutions](https://brq.com)
+- 👨‍💻 I'm currently work as a Data Engineer at a Brazilian company
 - 👍 I'm an open source culture enthusiast
 - Automations with Python like webscrapping, data wranglin and modeling
 - Big Data with Spark, Apache Kafka, AWS 
