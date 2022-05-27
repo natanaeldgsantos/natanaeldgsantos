@@ -1,8 +1,8 @@
 # Hi, nice to meet you
 
-My name is Natanael Domingos and I am a Data Engineer specialized in automating processes based on data extraction, processing and visualization.
+My name is Natanael Domingos and I'm a Data Engineer, specialized in automating processes based on data extraction, processing and visualization.
 
-I am passionate about building web interfaces, or using other tools, so that business people can extract value from their data in a simple and easy way.
+I'm passionate about building web interfaces, or using other tools, so that business people can extract value from their data in a simple and easy way.
 
 You can find my profile on the following channels:
 
