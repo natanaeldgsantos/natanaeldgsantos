@@ -6,7 +6,6 @@ I'm passionate about building web interfaces, or using other tools, so that busi
 
 You can find my profile on the following channels:
 
-[![Twitter Badge](https://img.shields.io/badge/@natandgsantos-1da1f2?logo=twitter&logoColor=white&style=flat-square&link=https://twitter.com/Natandgsantos)](https://twitter.com/Natandgsantos)
 [![Linkedin Badge](https://img.shields.io/badge/-Natanael%20Domingos-0a66c2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natanaeldsantos/)](https://www.linkedin.com/in/natanaeldsantos/)
 [![Gmail Badge](https://img.shields.io/badge/-natanael.developer@gmail.com-ea4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:natanael.developer@gmail.com)](mailto:natanael.developer@gmail.com)
 
