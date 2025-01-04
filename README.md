@@ -11,7 +11,7 @@ Here on my GitHub, I share cool and engaging projects that showcase my expertise
 - **Languages:** Python, PySpark, SQL, Java
 - **Cloud:** Azure and AWS
 - **Tools:** Databricks, PowerBI, KNIME
-- **Techniques:** Data Analysis and Machine Learning
+- **Techniques:** Data Pipelines Developer, Data Analysis
   
 Feel free to explore my repositories, provide feedback, or reach out to discuss ideas and collaborate on projects!
 
